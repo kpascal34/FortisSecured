@@ -47,7 +47,7 @@ const RiskAssessment: React.FC = () => {
                   "serviceType": "ConsultingService",
                   "availabilityStarts": "00:00",
                   "availabilityEnds": "23:59",
-                  "serviceUrl": "https://fortissecured.co.uk"
+                  "serviceUrl": "https://www.fortissecured.co.uk"
                 }
               },
               "description": "Professional security risk assessment services including threat analysis, vulnerability assessment, and customised protection strategies",

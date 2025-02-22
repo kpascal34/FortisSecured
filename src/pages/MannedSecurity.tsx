@@ -47,7 +47,7 @@ const MannedSecurity: React.FC = () => {
                   "serviceType": "Emergency Service",
                   "availabilityStarts": "00:00",
                   "availabilityEnds": "23:59",
-                  "serviceUrl": "https://fortissecured.co.uk"
+                  "serviceUrl": "https://www.fortissecured.co.uk"
                 }
               },
               "description": "Professional manned and static guarding services with trained security personnel for 24/7 premises protection",

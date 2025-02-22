@@ -47,7 +47,7 @@ const EventSecurity: React.FC = () => {
                   "serviceType": "Emergency Service",
                   "availabilityStarts": "00:00",
                   "availabilityEnds": "23:59",
-                  "serviceUrl": "https://fortissecured.co.uk"
+                  "serviceUrl": "https://www.fortissecured.co.uk"
                 }
               },
               "description": "Professional event security services with trained personnel for comprehensive event protection and crowd management",
