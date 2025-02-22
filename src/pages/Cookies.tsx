@@ -133,7 +133,7 @@ const Cookies: React.FC = () => {
             <p>For inquiries regarding our Cookie Policy or our utilisation of cookies, please get in touch with us at:</p>
             <p>
               Fortis Security<br />
-              Email: privacy@fortissecurity.com<br />
+              Email: privacy@fortissecured.co.uk<br />
               Phone: 07762853255
             </p>
           </section>

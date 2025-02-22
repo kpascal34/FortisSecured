@@ -148,7 +148,7 @@ const Privacy: React.FC = () => {
             <h2>Contact Information</h2>
             <p>If you have questions or concerns about this Privacy Policy or our privacy practices, please get in touch with us at:</p>
             <p>Fortis Security<br />
-            Email: privacy@fortissecurity.com<br />
+            Email: privacy@fortissecured.co.uk<br />
             Phone: 07762853255</p>
           </section>
 

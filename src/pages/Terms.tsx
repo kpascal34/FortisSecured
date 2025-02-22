@@ -162,7 +162,7 @@ const Terms: React.FC = () => {
             <p>For any inquiries regarding these Terms, please get in touch with us at:</p>
             <p>
               Fortis Security<br />
-              Email: legal@fortissecurity.com<br />
+              Email: legal@fortissecured.co.uk<br />
               Phone: 07762853255
             </p>
           </section>
